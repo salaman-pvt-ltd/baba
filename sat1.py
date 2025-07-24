@@ -5,5 +5,5 @@ jaduuuuu
 print("hello")
 jaduuuuu
 ugughguh
-huuhuh
-hihiudhiq
+hhi
+
